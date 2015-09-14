@@ -39,7 +39,7 @@ N={0,1,2,3...}
 
 + Unsigned binary numbers don't have a bit to show if a number is positive or negative. If you have an 8-bit unsigned binary number the highest value can be 255, there are 256 (2 to the power of 8)
 
-+Signed binary numbers use one bit at the begining to indicate weather it is a positive or negative number. An example for this is an 8-bit numbers the maximum is 127 as there are 128 (2 to the power of 7) and the lowest is -128. 
++ Signed binary numbers use one bit at the begining to indicate weather it is a positive or negative number. An example for this is an 8-bit numbers the maximum is 127 as there are 128 (2 to the power of 7) and the lowest is -128. 
 
  	8-bit positive 01011010
 
