@@ -42,6 +42,7 @@ N={0,1,2,3...}
 + Signed binary numbers use one bit at the begining to indicate weather it is a positive or negative number. An example for this is an 8-bit numbers the maximum is 127 as there are 128 (2 to the power of 7) and the lowest is -128. 
 
  	8-bit positive 01011010
+ 	
 	8-bit negative 11010011
 
 #### unsigned binary arithmetics
@@ -58,7 +59,7 @@ N={0,1,2,3...}
 	##### 1010 + 0010 = 1100 (This is because the second 1 is carried over)
 
 	##### 1010 + 1111 = 11000
-	
+
 #### signed binary with two's complement
 #### fixed point form binary representation of numbers with fractional parts
 
