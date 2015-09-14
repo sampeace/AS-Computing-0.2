@@ -42,17 +42,20 @@ N={0,1,2,3...}
 + Signed binary numbers use one bit at the begining to indicate weather it is a positive or negative number. An example for this is an 8-bit numbers the maximum is 127 as there are 128 (2 to the power of 7) and the lowest is -128. 
 
  	8-bit positive 01011010
- 	
+
 	8-bit negative 11010011
 
 #### unsigned binary arithmetics
 
 + Adding tow numbers together is very basic and is easy accomplished, when doing this you need to remember that. 
 
-	0 + 0 = 0
-	0 + 1 = 1
-	1 + 1 = 10 (This is because the other one is carried forward into the second digit creating a 10)
-	1 + 1 + 1 = 10 + 1 = 11
+	#####0 + 0 = 0
+
+	#####0 + 1 = 1
+
+	#####1 + 1 = 10 (This is because the other one is carried forward into the second digit creating a 10)
+
+	#####1 + 1 + 1 = 10 + 1 = 11
 
 + Applying it to some examples, 
 
