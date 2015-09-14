@@ -35,12 +35,16 @@ N={0,1,2,3...}
 
 ### 3.5.4 Binary number system
 
-#### unsigned binary & signed binary
+#### Unsigned binary & Signed binary
+
 + Unsigned binary numbers don't have a bit to show if a number is positive or negative. If you have an 8-bit unsigned binary number the highest value can be 255, there are 256 (2 to the power of 8)
+
 +Signed binary numbers use one bit at the begining to indicate weather it is a positive or negative number. An example for this is an 8-bit numbers the maximum is 127 as there are 128 (2 to the power of 7) and the lowest is -128. 
- ##### 8-bit positive 01011010
- ##### 8-bit negative 11010011
- 
+
+ 	8-bit positive 01011010
+
+	8-bit negative 11010011
+
 #### unsigned binary arithmetics
 #### signed binary with two's complement
 #### fixed point form binary representation of numbers with fractional parts
